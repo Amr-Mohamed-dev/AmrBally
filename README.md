@@ -23,6 +23,22 @@
 
 ---
 
+### 🌟 **Top Repositories**
+
+<div align="center">
+
+  [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_1&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME/REPO_1)
+  
+  [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_2&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME/REPO_2)
+  
+  [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_3&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME/REPO_3)
+  
+  [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_4&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME/REPO_4)
+
+</div>
+
+---
+
 ### 🎯 **Fun Fact**
 
 <div align="center">
@@ -38,6 +54,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amr Mohamed&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
