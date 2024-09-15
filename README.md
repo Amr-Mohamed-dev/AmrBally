@@ -24,9 +24,18 @@
 ---
 
 ### 🎯 **Fun Fact**
-> When I’m not coding, I enjoy exploring new web design trends and playing around with CSS animations!
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amr Mohamed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/l3vR1rg3ohZEkniRO/giphy.gif" width="150"/>
+
+  > **Did you know?**  
+  > When I’m not coding, I’m likely exploring the latest web design trends, playing with CSS animations, or trying out new React libraries!  
+  > I also love challenging myself by building small interactive projects for fun.
+
+  🧠 **Fun challenge**: Try coding a CSS animation in less than 10 lines!
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amr Mohamed&icon=0&color=0)](https://visitcount.itsvg.in)
