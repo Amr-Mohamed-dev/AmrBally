@@ -21,19 +21,37 @@
 
 </div>
 
-### 🌟 **Top Projects**
+### 🌟 **Top Repositories**
 
 <div align="center">
 
-  [![Main Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=main-admin-dashboard&theme=radical)](https://main-admin-dashboard-blush.vercel.app)
+  [![Main Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=Main-Admin-Dashboard&theme=radical)](https://github.com/AmrBally/Main-Admin-Dashboard)
   
-  [![Interviewee App](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=interviewee&theme=radical)](https://interviewee-three.vercel.app)
+  [![Interviewee](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=interviewee&theme=radical)](https://github.com/AmrBally/interviewee)
   
-  [![Teacher Temp](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=teacher-temp&theme=radical)](https://teacher-temp-2.vercel.app)
+  [![Teacher Temp 2](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=Teacher-Temp-2&theme=radical)](https://github.com/AmrBally/Teacher-Temp-2)
   
-  [![Aram Chem](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=aram-chem-eg&theme=radical)](https://aram-chem-eg.vercel.app)
+  [![Aram Chem Eg](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=AramChemEg&theme=radical)](https://github.com/AmrBally/AramChemEg)
 
-  [![HTC Company](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=htc-company&theme=radical)](https://htc-company.vercel.app)
+  [![HTC Company](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=htc-company&theme=radical)](https://github.com/AmrBally/htc-company)
+
+</div>
+
+---
+
+### 🌍 **Top Projects**
+
+<div align="center">
+
+  [![Main Admin Dashboard](https://img.shields.io/badge/Main_Admin_Dashboard-000?style=for-the-badge&logo=vercel)](https://main-admin-dashboard-blush.vercel.app)
+  
+  [![Interviewee App](https://img.shields.io/badge/Interviewee_App-000?style=for-the-badge&logo=vercel)](https://interviewee-three.vercel.app)
+  
+  [![Teacher Temp](https://img.shields.io/badge/Teacher_Temp-000?style=for-the-badge&logo=vercel)](https://teacher-temp-2.vercel.app)
+  
+  [![Aram Chem](https://img.shields.io/badge/Aram_Chem-000?style=for-the-badge&logo=vercel)](https://aram-chem-eg.vercel.app)
+
+  [![HTC Company](https://img.shields.io/badge/HTC_Company-000?style=for-the-badge&logo=vercel)](https://htc-company.vercel.app)
 
 </div>
 
