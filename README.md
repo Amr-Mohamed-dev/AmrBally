@@ -26,14 +26,34 @@
 <div align="center">
 
   [![Main Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=Main-Admin-Dashboard&theme=radical)](https://github.com/AmrBally/Main-Admin-Dashboard)
-  
+  <br>
+  <p align="center">
+    <b>Main Admin Dashboard</b> - A comprehensive admin dashboard built with React and Tailwind CSS for managing various aspects of an application.
+  </p>
+
   [![Interviewee](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=interviewee&theme=radical)](https://github.com/AmrBally/interviewee)
+  <br>
+  <p align="center">
+    <b>Interviewee</b> - A tool for managing interview processes and candidates, featuring modern UI/UX design and dynamic functionality.
+  </p>
   
   [![Teacher Temp 2](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=Teacher-Temp-2&theme=radical)](https://github.com/AmrBally/Teacher-Temp-2)
+  <br>
+  <p align="center">
+    <b>Teacher Temp 2</b> - A template for educational purposes with a clean design, built to support teachers and students with interactive features.
+  </p>
   
   [![Aram Chem Eg](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=AramChemEg&theme=radical)](https://github.com/AmrBally/AramChemEg)
+  <br>
+  <p align="center">
+    <b>Aram Chem Eg</b> - A project focused on providing chemical information and resources, with a user-friendly interface.
+  </p>
 
   [![HTC Company](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=htc-company&theme=radical)](https://github.com/AmrBally/htc-company)
+  <br>
+  <p align="center">
+    <b>HTC Company</b> - A corporate website for HTC Company, showcasing their services and team with a professional design.
+  </p>
 
 </div>
 
@@ -42,17 +62,39 @@
 ### 🌍 **Top Projects**
 
 <div align="center">
-
-  [![Main Admin Dashboard](https://img.shields.io/badge/Main_Admin_Dashboard-000?style=for-the-badge&logo=vercel)](https://main-admin-dashboard-blush.vercel.app)
-  
-  [![Interviewee App](https://img.shields.io/badge/Interviewee_App-000?style=for-the-badge&logo=vercel)](https://interviewee-three.vercel.app)
-  
-  [![Teacher Temp](https://img.shields.io/badge/Teacher_Temp-000?style=for-the-badge&logo=vercel)](https://teacher-temp-2.vercel.app)
-  
-  [![Aram Chem](https://img.shields.io/badge/Aram_Chem-000?style=for-the-badge&logo=vercel)](https://aram-chem-eg.vercel.app)
-
-  [![HTC Company](https://img.shields.io/badge/HTC_Company-000?style=for-the-badge&logo=vercel)](https://htc-company.vercel.app)
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://main-admin-dashboard-blush.vercel.app">
+          <img src="https://img.shields.io/badge/-Main_Admin_Dashboard-000000?style=for-the-badge&logo=vercel" alt="Main Admin Dashboard" />
+        </a>
+      </td>
+      <td>
+        <a href="https://interviewee-three.vercel.app">
+          <img src="https://img.shields.io/badge/-Interviewee_App-000000?style=for-the-badge&logo=vercel" alt="Interviewee App" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://teacher-temp-2.vercel.app">
+          <img src="https://img.shields.io/badge/-Teacher_Temp-000000?style=for-the-badge&logo=vercel" alt="Teacher Temp" />
+        </a>
+      </td>
+      <td>
+        <a href="https://aram-chem-eg.vercel.app">
+          <img src="https://img.shields.io/badge/-Aram_Chem-000000?style=for-the-badge&logo=vercel" alt="Aram Chem" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://htc-company.vercel.app">
+          <img src="https://img.shields.io/badge/-HTC_Company-000000?style=for-the-badge&logo=vercel" alt="HTC Company" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
