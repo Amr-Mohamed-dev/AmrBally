@@ -23,19 +23,6 @@
 
 ---
 
-### 💬 **Contact Me**
-
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
 ### 🎯 **Fun Fact**
 > When I’m not coding, I enjoy exploring new web design trends and playing around with CSS animations!
 ### 🔝 Top Contributed Repo
