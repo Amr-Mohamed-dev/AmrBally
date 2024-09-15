@@ -23,18 +23,6 @@
 
 ---
 
-### 💻 **Tech Stack**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/FramerMotion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</div>
-
----
-
 ### 💬 **Contact Me**
 
 <div align="center">
