@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  [![Main Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=Main-Admin-Dashboard&theme=radical)](https://github.com/AmrBally/Main-Admin-Dashboard)
+  [![Main Admin Dashboard](https://github.com/AmrBally/Main-Admin-Dashboard)
   <br>
   <p align="center">
     <b>Main Admin Dashboard</b> - A comprehensive admin dashboard built with React and Tailwind CSS for managing various aspects of an application.
