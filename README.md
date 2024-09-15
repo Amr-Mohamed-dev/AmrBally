@@ -26,14 +26,34 @@
 <div align="center">
 
   [![Main Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=Main-Admin-Dashboard&theme=radical)](https://github.com/AmrBally/Main-Admin-Dashboard)
+  <br>
+  <p align="center">
+    <b>Main Admin Dashboard</b> - A comprehensive admin dashboard built with React and Tailwind CSS for managing various aspects of an application.
+  </p>
 
   [![Interviewee](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=interviewee&theme=radical)](https://github.com/AmrBally/interviewee)
-
+  <br>
+  <p align="center">
+    <b>Interviewee</b> - A tool for managing interview processes and candidates, featuring modern UI/UX design and dynamic functionality.
+  </p>
+  
   [![Teacher Temp 2](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=Teacher-Temp-2&theme=radical)](https://github.com/AmrBally/Teacher-Temp-2)
-
+  <br>
+  <p align="center">
+    <b>Teacher Temp 2</b> - A template for educational purposes with a clean design, built to support teachers and students with interactive features.
+  </p>
+  
   [![Aram Chem Eg](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=AramChemEg&theme=radical)](https://github.com/AmrBally/AramChemEg)
+  <br>
+  <p align="center">
+    <b>Aram Chem Eg</b> - A project focused on providing chemical information and resources, with a user-friendly interface.
+  </p>
 
   [![HTC Company](https://github-readme-stats.vercel.app/api/pin/?username=AmrBally&repo=htc-company&theme=radical)](https://github.com/AmrBally/htc-company)
+  <br>
+  <p align="center">
+    <b>HTC Company</b> - A corporate website for HTC Company, showcasing their services and team with a professional design.
+  </p>
 
 </div>
 
